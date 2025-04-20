@@ -18,8 +18,7 @@ This project is a responsive **Microsoft 365 landing page clone** built using **
 
 - **React** – Component-based frontend library.
 - **Tailwind CSS** – Utility-first CSS framework for styling.
-- **JavaScript (ES6)** – For component logic and interactivity.
-- **Vite** or **Create React App** – (Optional) For fast development setup.
+- **Vite** For fast development setup.
 
 ## How to Run
 
