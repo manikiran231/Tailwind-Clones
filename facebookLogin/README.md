@@ -1,12 +1,55 @@
-# React + Vite
+# 🔐 Facebook Login Page Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This project is a responsive **Facebook login page clone** built using **React** and **Tailwind CSS**. It replicates the clean and minimal login interface of Facebook, focusing on modern layout, component-based architecture, and mobile responsiveness. This project showcases frontend development skills and a real-world UI clone using React and Tailwind.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- ⚛️ **React Components**: Modular and reusable components for maintainability.
+- 🎨 **Tailwind CSS**: Utility-first styling with built-in responsiveness.
+- 📱 **Fully Responsive Design**: Looks great on mobile, tablet, and desktop.
+- 🔑 **Login Form**: Email/Phone and Password input with login functionality.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+- **React** – Component-based frontend library.
+- **Tailwind CSS** – Utility-first CSS framework for styling.
+- **Vite** For fast development setup.
+
+## How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/manikiran231/facebooklogin.git
+cd facebook-login-clone
+```
+
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Start the development server:
+
+```bash
+npm start
+```
+
+## Future Improvements
+
+🌙 Dark Mode: Add a toggle for dark theme.
+
+🌍 Language Switcher: Allow users to change the UI language.
+
+🛡️ Form Validation: Include real-time input validation and error messages.
+
+🔐 OAuth Integration: Implement Facebook OAuth login (for demonstration only).
+
+🧩 Componentization: Extract reusable UI components like Input, Button, and Card.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
